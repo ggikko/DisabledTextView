@@ -1,2 +1,2 @@
 # DisabledTextView
-test
+Disabled text view
